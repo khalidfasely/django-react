@@ -6,7 +6,7 @@
 ```shell
 cd frontend
 ```
-    - and run these commands:
+and run these commands:
 ```shell
 yarn install
 ```
