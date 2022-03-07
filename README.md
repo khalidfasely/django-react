@@ -6,19 +6,19 @@
 ```shell
 cd frontend
 ```
-- and run these commands:
+    - and run these commands:
 ```shell
 yarn install
 ```
 ```shell
 yarn run build
 ```
-5. - Go back to the project folder and run 
+5. Go back to the project folder and run 
 ```shell
 python manage.py runserver
 ```
 
-Note:
+### Note:
 
 Every time you made a change on the React side of the project you need to run:
 ```shell
