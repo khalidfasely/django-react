@@ -22,6 +22,6 @@ python manage.py runserver
 
 Every time you made a change on the React side of the project you need to run:
 ```shell
-npm run build
+yarn run build
 ```
 to create new build/ folder.
